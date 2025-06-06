@@ -61,7 +61,8 @@
 - Created a homelab using HP ProLiant DL380P for red/blue team infrastructure  
 - Built Bash-based simulations following MITRE ATT&CK for student learning  
 - Led team competitions and training sessions at BYU–Idaho  
-- 🏅 Placed 3rd at HackUSU 2025 • 🏅 Placed 5th at RMCCDC 2024
+- 🏅 Placed 3rd at HackUSU 2025
+- 🏅 Placed 5th at RMCCDC 2024
 
 ---
 
