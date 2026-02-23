@@ -12,7 +12,8 @@
 - ✅ CompTIA Security+
 - ✅ CompTIA PenTest+
 - ✅ CompTIA CySA+
-- 🕒 *Upcoming:* AWS Cloud Practitioner, PNPT, CPTS
+- ✅ AWS Cloud Practitioner
+- 🕒 *Upcoming:* PNPT
 
 ---
 
